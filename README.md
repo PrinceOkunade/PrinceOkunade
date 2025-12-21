@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PrinceOkunade
-- 👀 I’m interested in learning python for data science
-- 🌱 I’m currently learning python and UX Design
-- 💞️ I’m looking to collaborate on projects
+- Hi, I’m @PrinceOkunade
+- I am a data scientist
+- I’m looking to collaborate on projects
 - 📫 How to reach me on princeokunade2@gmail.com
 
 <!---
