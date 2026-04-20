@@ -28,6 +28,6 @@ I build end-to-end machine learning pipelines — from exploratory analysis thro
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prince-okunade)
-[![Email](https://img.shields.io/badge/Email-princeokunade1@gmail.com-red?style=flat&logo=gmail)](mailto:princeokunade2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/princeokunade)
+[![Email](https://img.shields.io/badge/Email-princeokunade1@gmail.com-red?style=flat&logo=gmail)](mailto:princeokunade1@gmail.com)
 [![X](https://img.shields.io/badge/X-@_princeokunade-black?style=flat&logo=x)](https://twitter.com/_princeokunade)
