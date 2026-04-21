@@ -2,7 +2,7 @@
 
 **Data Scientist & ML Engineer** | MSc Data Science (York St John University, London) | BSc Statistics (University of Ibadan)
 
-I build end-to-end machine learning pipelines — from exploratory analysis through model deployment — with a focus on **finance**, **healthcare**, and **applied Bayesian statistics**.
+I build end-to-end machine learning pipelines, from exploratory analysis through model deployment, with a focus on **finance**, **healthcare**, and **applied Bayesian statistics**.
 
 ---
 
