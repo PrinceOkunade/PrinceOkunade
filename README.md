@@ -1,4 +1,4 @@
-# Hi, I'm Prince Okunade 👋
+# Hi, I'm Prince Okunade 
 
 **Data Scientist & ML Engineer** | MSc Data Science (York St John University, London) | BSc Statistics (University of Ibadan)
 
@@ -6,7 +6,7 @@ I build end-to-end machine learning pipelines — from exploratory analysis thro
 
 ---
 
-### 🔧 What I Work With
+###  What I Work With
 
 **Languages:** Python · R · SQL  
 **ML & Stats:** scikit-learn · XGBoost · SHAP · Bayesian inference · hypothesis testing  
@@ -16,7 +16,7 @@ I build end-to-end machine learning pipelines — from exploratory analysis thro
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
@@ -26,7 +26,7 @@ I build end-to-end machine learning pipelines — from exploratory analysis thro
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prince-okunade)
 [![Email](https://img.shields.io/badge/Email-princeokunade1@gmail.com-red?style=flat&logo=gmail)](mailto:princeokunade2@gmail.com)
